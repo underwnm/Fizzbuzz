@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+\\mac\home\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb
